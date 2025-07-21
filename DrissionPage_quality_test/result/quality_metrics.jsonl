@@ -1,0 +1,11 @@
+{"url": "https://httpbin.org/user-agent?id=722", "mode": "http", "total_length": 45, "semantic_tags": 1, "main_ratio": 0.0, "ad_tags": 0, "simhash": 0, "dom_distance": 0, "encoding_error": 1, "garbage_rate": 0.067, "js_ratio": 1.0, "load_time": 1.491}
+{"url": "https://httpbin.org/user-agent?id=722", "mode": "chrome-no-media", "total_length": 297, "semantic_tags": 0, "main_ratio": 0.441, "ad_tags": 0, "simhash": 9548170524478521775, "dom_distance": 5.0, "encoding_error": 1, "garbage_rate": 0.01, "js_ratio": 6.6, "load_time": 11.708}
+{"url": "https://httpbin.org/user-agent?id=722", "mode": "chrome-no-js", "total_length": 1029, "semantic_tags": 0, "main_ratio": 0.765, "ad_tags": 0, "simhash": 8899951733252788882, "dom_distance": 5.0, "encoding_error": 1, "garbage_rate": 0.018, "js_ratio": 22.867, "load_time": 22.759}
+{"url": "https://httpbin.org/user-agent?id=722", "mode": "chrome", "total_length": 1029, "semantic_tags": 0, "main_ratio": 0.765, "ad_tags": 0, "simhash": 8040327016873038000, "dom_distance": 5.0, "encoding_error": 1, "garbage_rate": 0.018, "js_ratio": 22.867, "load_time": 39.905}
+
+
+
+{"url": "https://tools.ietf.org/html/rfc2616?id=774", "mode": "http", "total_length": 6927, "semantic_tags": 0, "main_ratio": 0.006, "ad_tags": 0, "simhash": 1428336841239698129, "dom_distance": 0, "encoding_error": 1, "garbage_rate": 0.0, "js_ratio": 1.0, "load_time": 0.582}
+{"url": "https://tools.ietf.org/html/rfc2616?id=774", "mode": "chrome-no-media", "total_length": 20248, "semantic_tags": 1, "main_ratio": 0.007, "ad_tags": 0, "simhash": 1990940963626488815, "dom_distance": 24.0, "encoding_error": 0, "garbage_rate": 0.0, "js_ratio": 2.932, "load_time": 2.687}
+{"url": "https://tools.ietf.org/html/rfc2616?id=774", "mode": "chrome-no-js", "total_length": 77320, "semantic_tags": 50, "main_ratio": 0.026, "ad_tags": 7, "simhash": 2080983531896398936, "dom_distance": 1063.0, "encoding_error": 0, "garbage_rate": 0.033, "js_ratio": 11.232, "load_time": 2.24}
+{"url": "https://tools.ietf.org/html/rfc2616?id=774", "mode": "chrome", "total_length": 20070, "semantic_tags": 1, "main_ratio": 0.007, "ad_tags": 0, "simhash": 1990940963626488815, "dom_distance": 23.0, "encoding_error": 0, "garbage_rate": 0.0, "js_ratio": 2.897, "load_time": 1.119}
